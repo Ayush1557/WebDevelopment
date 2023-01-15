@@ -1,2 +1,2 @@
 # WebDevelopment
-Folder
+basics of HTML and CSS
